@@ -1,0 +1,76 @@
+header {
+    background-color: #2991D6;
+    padding: 10px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+  }
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #2991D6;
+    color: white;
+    text-align: right;
+}
+
+.row {
+    margin-right: 0;
+    margin-left: 0;
+ }
+
+ form {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.cadastros{
+    margin-bottom: 7%;
+}
+
+.row.formulario {
+    display: flex;
+    margin-right: 20%;
+    margin-left: 20%;
+    justify-content: space-between;
+}
+
+select, .react-datepicker-wrapper {
+    margin-left: 7px;
+    margin-right: 2em;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+}
+
+table.table.table-bordered {
+    width: 94%;
+    margin-left: 3%;
+}
+
+h6 {
+    margin-top: .5rem;
+    font-size: 1rem;
+    width: 96%;
+} 
+
+h5{
+    margin-left: 3%;
+}
+
+tr {
+    text-align: center;
+}
+
+i.fa.fa-trash-o {
+    cursor: pointer;
+}
+
+.container.loader {
+    text-align: center;
+}
