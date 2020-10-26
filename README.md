@@ -20,5 +20,5 @@ npm start
   
   
   
-  <img align="left" width="225" height="500" src="https://github.com/KleberPPF/SistemaAgendamentos/blob/master/front-end/public/print0.PNG">
-  <img align="left" width="225" height="500" src="https://github.com/KleberPPF/SistemaAgendamentos/blob/master/front-end/public/print.PNG">
+  <img align="left" width="500" height="500" src="https://github.com/KleberPPF/SistemaAgendamentos/blob/master/front-end/public/print0.PNG">
+  <img align="left" width="500" height="500" src="https://github.com/KleberPPF/SistemaAgendamentos/blob/master/front-end/public/print.PNG">
